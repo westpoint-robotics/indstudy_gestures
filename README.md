@@ -1,5 +1,5 @@
 # Visual Signals for Q-UGV
-Objective: To develop the ability for a user to control a robot through hand and arm signals, and explore the practicality of controllerless robot tasking in a tactical environment.
+Objective: To develop the ability for an operator to control a robot through hand and arm signals, and explore the practicality of controllerless robot tasking in a tactical environment.
 
 ![Alt Text](media/RCV1.jpg)
 ![Alt Text](media/groundGuide.jpg)
