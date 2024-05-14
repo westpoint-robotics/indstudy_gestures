@@ -1,0 +1,17 @@
+(cl:defpackage publisher_subscriber-msg
+  (:use )
+  (:export
+   "<EVENTUSERUPDATE>"
+   "EVENTUSERUPDATE"
+   "<GESTUREINFORMATION>"
+   "GESTUREINFORMATION"
+   "<SKELETONDATA>"
+   "SKELETONDATA"
+   "<SKELETONDATAARRAY>"
+   "SKELETONDATAARRAY"
+   "<USERDATA>"
+   "USERDATA"
+   "<USERDATAARRAY>"
+   "USERDATAARRAY"
+  ))
+

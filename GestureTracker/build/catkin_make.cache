@@ -1,0 +1,2 @@
+publisher_subscriber
+-DCATKIN_DEVEL_PREFIX=/home/user1/nuitrack-sdk/GestureTracker/devel -DCMAKE_INSTALL_PREFIX=/home/user1/nuitrack-sdk/GestureTracker/install -G Unix Makefiles

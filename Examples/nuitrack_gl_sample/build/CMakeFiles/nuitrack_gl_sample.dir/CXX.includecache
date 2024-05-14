@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user1/nuitrack-sdk/Examples/nuitrack_gl_sample/src/NuitrackGLSample.cpp
+NuitrackGLSample.h
+/home/user1/nuitrack-sdk/Examples/nuitrack_gl_sample/src/NuitrackGLSample.h
+cstdlib
+-
+cstring
+-
+iostream
+-
+android/log.h
+-
+
+/home/user1/nuitrack-sdk/Examples/nuitrack_gl_sample/src/NuitrackGLSample.h
+nuitrack/Nuitrack.h
+-
+Windows.h
+-
+GLES/gl.h
+-
+GL/gl.h
+-
+string
+-
+
+/home/user1/nuitrack-sdk/Examples/nuitrack_gl_sample/src/main.cpp
+NuitrackGLSample.h
+/home/user1/nuitrack-sdk/Examples/nuitrack_gl_sample/src/NuitrackGLSample.h
+GL/freeglut.h
+-
+iostream
+-
+

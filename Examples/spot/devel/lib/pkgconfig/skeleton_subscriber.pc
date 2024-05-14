@@ -1,0 +1,8 @@
+prefix=/home/user1/nuitrack-sdk/Examples/spot/devel
+
+Name: skeleton_subscriber
+Description: Description of skeleton_subscriber
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
