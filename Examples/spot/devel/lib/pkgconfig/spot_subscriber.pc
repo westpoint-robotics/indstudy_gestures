@@ -1,0 +1,8 @@
+prefix=/home/user1/nuitrack-sdk/Examples/spot/devel
+
+Name: spot_subscriber
+Description: Description of spot_subscriber
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

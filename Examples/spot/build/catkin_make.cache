@@ -1,0 +1,2 @@
+nuitrack_body_tracker:publisher_subscriber:spot_subscriber
+-DCATKIN_DEVEL_PREFIX=/home/user1/nuitrack-sdk/Examples/spot/devel -DCMAKE_INSTALL_PREFIX=/home/user1/nuitrack-sdk/Examples/spot/install -G Unix Makefiles
